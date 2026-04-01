@@ -1,18 +1,19 @@
-# GEO: Allow AI answer engine crawlers
-User-agent: PerplexityBot
+# GolfVilla.com
+# Last updated: 2026-04-01
+
+User-agent: *
 Allow: /
 
+# Allow OpenAI search discovery
 User-agent: OAI-SearchBot
 Allow: /
 
+# Allow ChatGPT user fetches
 User-agent: ChatGPT-User
 Allow: /
 
-User-agent: FirecrawlAgent
-Allow: /
-
-# Standard crawl rules
-User-agent: *
-Allow: /
+# Block OpenAI model training crawl
+User-agent: GPTBot
+Disallow: /
 
 Sitemap: https://www.golfvilla.com/sitemap.xml
