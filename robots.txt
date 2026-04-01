@@ -1,3 +1,18 @@
+# GEO: Allow AI answer engine crawlers
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: FirecrawlAgent
+Allow: /
+
+# Standard crawl rules
 User-agent: *
 Allow: /
+
 Sitemap: https://www.golfvilla.com/sitemap.xml
