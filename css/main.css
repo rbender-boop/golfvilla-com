@@ -315,3 +315,7 @@ em { font-style: italic; }
 .feature-list li { padding: 10px 0 10px 20px; border-bottom: 1px solid rgba(255,255,255,0.06); font-family: var(--font-sans); font-size: 0.88rem; line-height: 1.7; color: rgba(255,255,255,0.75); position: relative; }
 .feature-list li::before { content: "✦"; position: absolute; left: 0; color: var(--gold); font-size: 0.6rem; top: 14px; }
 .feature-list li strong { color: var(--white); }
+
+/* ─── NUMBERED LIST ──────────────────────────────────────────── */
+.numbered-list { list-style: decimal; padding-left: 20px; margin: 8px 0; }
+.numbered-list li { padding: 8px 0 8px 8px; font-family: var(--font-sans); font-size: 0.88rem; line-height: 1.7; color: rgba(255,255,255,0.75); border-bottom: 1px solid rgba(255,255,255,0.05); }
