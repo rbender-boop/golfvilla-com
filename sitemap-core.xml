@@ -17,6 +17,8 @@
   <url><loc>https://www.golfvilla.com/golf-villa-scotland/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.golfvilla.com/golf-villa-ireland/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.golfvilla.com/golf-villa-portugal/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.golfvilla.com/golf-villa-anniversary/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.golfvilla.com/golf-villa-family-vacation/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <!-- Tier 1 city pages -->
   <url><loc>https://www.golfvilla.com/from/houston/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.golfvilla.com/from/new-york/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -77,3 +79,4 @@
   <url><loc>https://www.golfvilla.com/from/sydney/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.golfvilla.com/from/melbourne/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
+
