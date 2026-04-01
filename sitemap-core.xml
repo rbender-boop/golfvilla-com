@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core pages -->
   <url><loc>https://www.golfvilla.com/</loc><lastmod>2026-04-01</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://www.golfvilla.com/what-is-a-golf-villa/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://www.golfvilla.com/caribbean-golf-villa/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -16,7 +17,7 @@
   <url><loc>https://www.golfvilla.com/golf-villa-scotland/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.golfvilla.com/golf-villa-ireland/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.golfvilla.com/golf-villa-portugal/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- Tier 1 City Pages -->
+  <!-- Tier 1 city pages -->
   <url><loc>https://www.golfvilla.com/from/houston/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.golfvilla.com/from/new-york/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.golfvilla.com/from/dallas/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -27,7 +28,7 @@
   <url><loc>https://www.golfvilla.com/from/boston/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.golfvilla.com/from/philadelphia/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.golfvilla.com/from/phoenix/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <!-- Tier 2 City Pages -->
+  <!-- Tier 2 city pages -->
   <url><loc>https://www.golfvilla.com/from/austin/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.golfvilla.com/from/las-vegas/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.golfvilla.com/from/san-diego/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -41,4 +42,38 @@
   <url><loc>https://www.golfvilla.com/from/dublin/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.golfvilla.com/from/calgary/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.golfvilla.com/from/vancouver/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- Tier 3 city pages -->
+  <url><loc>https://www.golfvilla.com/from/san-francisco/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/seattle/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/denver/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/portland/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/salt-lake-city/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/nashville/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/charlotte/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/jacksonville/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/indianapolis/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/columbus/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/kansas-city/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/st-louis/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/new-orleans/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/san-antonio/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/washington-dc/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/baltimore/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/pittsburgh/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/cincinnati/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/cleveland/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/sacramento/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/san-jose/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/memphis/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/hartford/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/omaha/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/milwaukee/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/montreal/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/ottawa/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/manchester/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/edinburgh/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/paris/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/amsterdam/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/sydney/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.golfvilla.com/from/melbourne/</loc><lastmod>2026-04-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
