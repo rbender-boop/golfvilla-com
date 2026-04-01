@@ -27,3 +27,14 @@ if (fadeEls.length) {
   }, { threshold: 0.1 });
   fadeEls.forEach(el => observer.observe(el));
 }
+
+
+// ── FAQ ACCORDION ────────────────────────────────────────────────
+document.querySelectorAll('.faq-q').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', !expanded);
+    const answer = btn.nextElementSibling;
+    answer.classList.toggle('open', !expanded);
+  });
+});

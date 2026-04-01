@@ -267,3 +267,45 @@ em { font-style: italic; }
 .network-bar { background: var(--gold); padding: 10px 0; text-align: center; }
 .network-bar p { font-family: var(--font-sans); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--navy); }
 .network-bar a { color: var(--navy); text-decoration: underline; }
+
+/* ─── DROPDOWN NAVIGATION ────────────────────────────────────── */
+.nav-dropdown { position: relative; }
+.nav-dropdown > a { cursor: pointer; }
+.nav-sub { display: none; position: absolute; top: 100%; left: 0; background: rgba(10,22,40,0.98); backdrop-filter: blur(12px); border: 1px solid rgba(201,168,76,0.2); min-width: 220px; padding: 8px 0; z-index: 200; list-style: none; margin: 0; }
+.nav-sub li a { display: block; padding: 10px 20px; color: rgba(255,255,255,0.7); font-family: var(--font-sans); font-size: 0.75rem; letter-spacing: 0.05em; transition: all 0.2s; white-space: nowrap; }
+.nav-sub li a:hover, .nav-sub li a.nav-featured { color: var(--gold); }
+.nav-dropdown:hover .nav-sub { display: block; }
+
+/* ─── FOOTER CONTACT ─────────────────────────────────────────── */
+.footer-contact { margin-top: 20px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 16px; }
+.footer-contact p { font-family: var(--font-sans); font-size: 0.8rem; color: rgba(255,255,255,0.6); margin-bottom: 4px; }
+.footer-contact a { color: var(--gold); transition: opacity 0.2s; }
+.footer-contact a:hover { opacity: 0.8; }
+
+
+/* ─── ARTICLE LEDE ───────────────────────────────────────────── */
+.article-lede { font-size: 1.1rem; line-height: 1.8; color: rgba(255,255,255,0.85); border-left: 3px solid var(--gold); padding-left: 20px; margin-bottom: 0; }
+
+/* ─── COMPARISON TABLE ───────────────────────────────────────── */
+.comparison-table-wrap { overflow-x: auto; margin-top: 28px; }
+.comparison-table { width: 100%; border-collapse: collapse; font-family: var(--font-sans); font-size: 0.82rem; }
+.comparison-table thead tr { background: var(--gold); }
+.comparison-table thead th { padding: 12px 16px; text-align: left; color: var(--navy); font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; font-size: 0.7rem; }
+.comparison-table tbody tr { border-bottom: 1px solid rgba(255,255,255,0.07); }
+.comparison-table tbody tr:nth-child(even) { background: rgba(255,255,255,0.03); }
+.comparison-table tbody td { padding: 11px 16px; color: rgba(255,255,255,0.75); vertical-align: top; }
+.comparison-table tbody td:first-child { color: rgba(255,255,255,0.5); font-weight: 600; }
+
+/* ─── FAQ ACCORDION ──────────────────────────────────────────── */
+.faq-list { margin-top: 8px; }
+.faq-item { border-bottom: 1px solid rgba(255,255,255,0.08); }
+.faq-q { width: 100%; background: none; border: none; padding: 20px 0; display: flex; justify-content: space-between; align-items: center; cursor: pointer; color: var(--white); font-family: var(--font-serif); font-size: 1rem; text-align: left; gap: 16px; }
+.faq-q:hover { color: var(--gold); }
+.faq-icon { font-size: 1.4rem; font-family: var(--font-sans); color: var(--gold); flex-shrink: 0; transition: transform 0.3s; }
+.faq-q[aria-expanded="true"] .faq-icon { transform: rotate(45deg); }
+.faq-a { display: none; padding-bottom: 20px; }
+.faq-a p { font-family: var(--font-sans); font-size: 0.88rem; line-height: 1.75; color: rgba(255,255,255,0.7); margin: 0; }
+.faq-a.open { display: block; }
+
+/* ─── H3 ARTICLE SUBHEADINGS ─────────────────────────────────── */
+.article-section h3 { font-family: var(--font-serif); font-size: 1.15rem; color: var(--gold); margin: 28px 0 10px; letter-spacing: 0.02em; }
